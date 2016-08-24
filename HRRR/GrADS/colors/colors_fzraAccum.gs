@@ -1,0 +1,37 @@
+*0 to 0.10" (increments of 0.01")
+'set rgb 20 255 255 255'
+'set rgb 21 132 182 213'
+'set rgb 22 104 163 198'
+'set rgb 23 90 153 190'
+'set rgb 24 77 144 183'
+'set rgb 25 63 134 175'
+'set rgb 26 49 124 167'
+'set rgb 27 35 115 160'
+'set rgb 28 21 105 152'
+'set rgb 29 8 96 145'
+*0.10-0.20" (increments of 0.02") 
+'set rgb 30 177 126 195'
+'set rgb 31 148 91 168'
+'set rgb 32 129 68 150'
+'set rgb 33 110 45 132'
+'set rgb 34 101 34 124'
+*0.20" to 0.50" (increments of 0.05")
+'set rgb 35 253 165 209'
+'set rgb 36 249 128 191'
+'set rgb 37 245 92 173'
+'set rgb 38 241 55 155'
+'set rgb 39 237 22 141'
+'set rgb 40 235 0 128'
+*0.50" to 1.00" (increments of 0.10")
+'set rgb 41 250 233 0'
+'set rgb 42 247 205 0'
+'set rgb 43 244 177 0'
+'set rgb 44 241 149 0'
+'set rgb 45 238 121 0'
+*1.00" to >2.00" (increments of 0.25")
+'set rgb 46 230 21 0'
+'set rgb 47 203 18 0'
+'set rgb 48 176 16 0'
+'set rgb 49 149 14 1'
+'set rgb 50 122 12 1'
+
